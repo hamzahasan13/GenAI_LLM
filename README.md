@@ -25,4 +25,6 @@ Key Components:
 
 **LLM**: Google’s Flan T5 (Text-to-Text Transfer Transformer) is an open-source, sequence-to-sequence, large language model. This LLM uses the output of the FAISS to generate an answer to the question asked by the user.
 
-
+References:
+- https://huggingface.co/hkunlp/instructor-large
+- https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai
