@@ -1,8 +1,10 @@
 # FlanT5-LLM Query Engine
 
+<img width="1451" alt="Working" src="https://github.com/hamzahasan13/FlanT5-LLM-Query-Engine/assets/114373000/551899bb-9bfe-4212-b98e-a0346c37d1fc">
+
+
 <img width="955" alt="image" src="https://github.com/hamzahasan13/FlanT5-LLM-Query-Engine/assets/114373000/b95eb59a-6999-4d02-89ec-a68beb213d3c">
 
-<img width="1451" alt="Working" src="https://github.com/hamzahasan13/FlanT5-LLM-Query-Engine/assets/114373000/551899bb-9bfe-4212-b98e-a0346c37d1fc">
 
 Key Components:
 
