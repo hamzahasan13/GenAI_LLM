@@ -1,5 +1,7 @@
 # FlanT5-LLM Query Engine
 
+<img width="955" alt="image" src="https://github.com/hamzahasan13/FlanT5-LLM-Query-Engine/assets/114373000/b95eb59a-6999-4d02-89ec-a68beb213d3c">
+
 Key Components:
 
 **LangChain**: A framework for context-aware applications powered by language models, enabling intelligent reasoning and informed decision-making.
@@ -23,4 +25,4 @@ Key Components:
 
 **LLM**: Google’s Flan T5 (Text-to-Text Transfer Transformer) is an open-source, sequence-to-sequence, large language model. This LLM uses the output of the FAISS to generate an answer to the question asked by the user.
 
-<img width="955" alt="image" src="https://github.com/hamzahasan13/FlanT5-LLM-Query-Engine/assets/114373000/b95eb59a-6999-4d02-89ec-a68beb213d3c">
+
